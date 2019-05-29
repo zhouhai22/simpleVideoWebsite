@@ -1,0 +1,4 @@
+*.war
+/classes/
+/simplest_video_website.jpg
+/simplest_video_website.iml
